@@ -15,6 +15,6 @@
 
 ## How to View
 
-You can access my portfolio website by visiting . Feel free to explore the content and get in touch!
+You can access my portfolio website by visiting https://batrick-reizon.github.io/reestar-food-order-website/. Feel free to explore the content and get in touch!
 
 Thank you for visiting my portfolio website!
