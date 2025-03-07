@@ -1,0 +1,149 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: "Lato", serif;
+}
+
+.navbar{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+li{
+    display: inline;
+    color: lightslategray;
+}
+
+li:hover{
+    cursor: pointer;
+    color: white;
+}
+
+.container-one img{
+    width: 300px;
+    height: 300px;
+}
+
+.container-one{
+    border: 2px solid black;
+    display: inline-block;
+}
+
+.container-one h3{
+    text-align: center;
+}
+
+.container-one p{
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+}
+
+.button button{
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+
+.button button:hover{
+    cursor: pointer;
+    color: chartreuse;
+}
+
+.container-two img{
+    width: 300px;
+    height: 300px;
+}
+
+.container-two h3{
+    text-align: center;
+}
+
+.container-two p{
+    text-align: center;
+}
+
+.container-two{
+    border: 2px solid black;
+    display: inline-block;
+}
+
+.container-three img{
+    width: 300px;
+    height: 300px;
+}
+
+.container-three h3{
+    text-align: center;
+}
+
+.container-three p{
+    text-align: center;
+}
+
+.container-three{
+    border: 2px solid black;
+    display: inline-block;
+}
+
+.container-four img{
+    width: 300px;
+    height: 300px;
+}
+
+.container-four h3{
+    text-align: center;
+}
+
+.container-three p{
+    text-align: center;
+}
+
+.container-four{
+    border: 2px solid black;
+    display: inline-block;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 25px;
+    gap: 10px;
+}
+
+.container-contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.container-contact h1{
+    padding-top: 25px;
+}
+
+.container-details{
+    justify-items: center;
+}
+
+.container-button{
+    width: 500px;
+    padding: 5px;
+    background-color: yellow;
+    margin-bottom: 10px;
+}
+
+.container-button:hover{
+    cursor: pointer;
+}
