@@ -57,7 +57,7 @@ li:hover{
 
 .button button:hover{
     cursor: pointer;
-    color: chartreuse;
+    color: green;
 }
 
 .container-two img{
