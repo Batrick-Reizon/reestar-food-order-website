@@ -8,8 +8,8 @@
 •  Fully responsive and user-friendly design  
 
 ## Technologies Used  
-• **HTML**    
-• **CSS**       
+• **HTML5**    
+• **CSS3**       
 
 ## How to View
 
