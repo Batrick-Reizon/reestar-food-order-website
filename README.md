@@ -1,6 +1,4 @@
 # Reestar - Food Recipe & Ordering Website  
-
-##  About  
 **Reestar** is a simple and elegant food recipe and ordering website built using **HTML and CSS**. It features beautiful UI elements for displaying food recipes, an "Order Now" button, and a contact form for user interaction.  
 
 ## Features  
@@ -10,8 +8,8 @@
 •  Fully responsive and user-friendly design  
 
 ## Technologies Used  
-• HTML  
-• CSS       
+• **HTML**    
+• **CSS**       
 
 ## How to View
 
